@@ -1,0 +1,8 @@
+Name                        ;DEF Price;Pot Price;Gaiwan Price;Bulk Price;Package Price;Code
+Feng Huang Dan Cong         ;19.80    ;19.80    ;16.80       ;1.09      ;0            ;7
+Gyokuro                     ;24.80    ;24.80    ;21.80       ;1.9       ;95           ;2
+Aromat Kaszmiru             ;12.80    ;12.80    ;0           ;0.25      ;29           ;F3
+Sakura                      ;22.80    ;22.80    ;19.80       ;2.5       ;100          ;50
+Fajka Wodna                 ;35       ;0        ;0           ;0         ;0            ;6
+Wspomnienia z Omdurmanu     ;12.80    ;12.80    ;0           ;0.25        ;0            ;3
+AROMAT KOSZMARU             ;12.80    ;12.80    ;0           ;0.25      ;29           ;F3
